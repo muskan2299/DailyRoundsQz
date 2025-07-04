@@ -62,19 +62,6 @@ Responsive design: Works on phones and tablets.
 
 Accessible: High-contrast colors, large touch targets, and descriptive icons.
 
-# Feature Table
-Feature	Description
-Splash Screen	Animated intro with branding
-Quiz Navigation	Swipe gestures & arrow buttons
-Option Highlight	Green/red feedback, rounded cards
-Streak Indicator	Fire icons, Lottie animation for streaks
-Timer	15-minute global timer, timer icon, colored background
-Finish Test	Button to end quiz anytime, required after last question
-Results	Score, streak, detailed answer review
-Theme Switch	Sun/moon icon in switch, persistent with DataStore
-Error Handling	Retry on network/API failure
-MVVM + DataStore	Modern architecture, persistent user settings
-
 # How to Use
 Start the app: Splash screen with animation.
 
