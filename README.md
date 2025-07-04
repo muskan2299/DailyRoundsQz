@@ -80,17 +80,12 @@ A modern quiz app built with Jetpack Compose and Material3, featuring a beautifu
 ## 📸 Screenshots
 
 ### Splash Screen
-![Splash_Dark](screenshots/splash_dark.png)
-![Splash_Light](screenshots/splash_light.png)
+<img src="screenshots/splash_dark.png" width="250"/> <img src="screenshots/splash_light.png" width="250"/>
 
 ### Quiz Screen
-![Quiz1](screenshots/quiz_1.png)
-![Quiz2](screenshots/quiz_2.png)
-![Quiz3](screenshots/quiz_3.png)
-![Quiz4](screenshots/quiz_4.png)
+<img src="screenshots/quiz_1.png" width="250"/> <img src="screenshots/quiz_2.png" width="250"/> <img src="screenshots/quiz_3.png" width="250"/> <img src="screenshots/quiz_4.png" width="250"/>
 
 ### Results Screen
-![Results_Dark](screenshots/results_dark.png)
-![Results_Light](screenshots/results_light.png)
+<img src="screenshots/results_dark.png" width="250"/> <img src="screenshots/results_light.png" width="250"/>
 
 **Enjoy a modern, educational quiz experience with robust feedback and customization!**
